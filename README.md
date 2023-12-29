@@ -2,5 +2,5 @@ New Year html page.
 Used animation in CSS.
 
 Demo:
-https://github.com/Matik96/HappyNewYear2024/assets/46969145/95b5937d-5bcf-4b49-8d75-fd3520d0c363
 
+![Animation](https://github.com/Matik96/HappyNewYear2024/assets/46969145/7904ccb1-6fff-4246-8b02-8531ef4eb14f)
